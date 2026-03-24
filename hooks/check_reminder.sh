@@ -21,15 +21,15 @@ if [ "$elapsed" -ge "$INTERVAL" ]; then
 <hydrate-reminder>
 Before answering, open your response with the following inside a fenced code block (```), followed by a single friendly line:
 
-```
-    _   _ __   __ ____  ____      _  _____ _____
-   | | | |\ \ / /|  _ \|  _ \    / \|_   _| ____|
-   | |_| | \ V / | | | | |_) |  / _ \ | | |  _|
-   |  _  |  | |  | |_| |  _ <  / ___ \| | | |___
-   |_| |_|  |_|  |____/|_| \_\/_/   \_\_| |_____|
+
+__   _ __   __ ____  ____      _  _____ _____
+| | | |\ \ / /|  _ \|  _ \    / \|_   _| ____|
+| |_| | \ V / | | | | |_) |  / _ \ | | |  _|
+|  _  |  | |  | |_| |  _ <  / ___ \| | | |___
+|_| |_|  |_|  |____/|_| \_\/_/   \_\_| |_____|
 
                   ~ ~ ~  sip sip sip  ~ ~ ~
-```
+
 
 Then answer the user's question as normal.
 </hydrate-reminder>
@@ -39,8 +39,8 @@ EOF
 <hydrate-reminder>
 Before answering, open your response with the following inside a fenced code block (```), followed by a single friendly line:
 
-```
-   ____ _____  _    _   _ ____     _   _ ____
+
+_______ _____  _    _   _ ____     _   _ ____
   / ___|_   _|/ \  | \ | |  _ \   | | | |  _ \
   \___ \ | | / _ \ |  \| | | | |  | | | | |_) |
    ___) || |/ ___ \| |\  | |_| |  | |_| |  __/
@@ -49,7 +49,7 @@ Before answering, open your response with the following inside a fenced code blo
             \o/   get up & stretch!
              |
             / \
-```
+
 
 Then answer the user's question as normal.
 </hydrate-reminder>

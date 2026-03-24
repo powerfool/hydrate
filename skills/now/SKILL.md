@@ -1,3 +1,7 @@
+---
+description: Show the hydrate reminder immediately
+---
+
 Output the following inside a fenced code block, then follow it with a short friendly line:
 
 ```
