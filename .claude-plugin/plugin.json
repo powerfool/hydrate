@@ -1,0 +1,8 @@
+{
+  "name": "hydrate",
+  "description": "Reminds you to take care of yourself while using Claude Code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dimitris Tzortzis"
+  }
+}

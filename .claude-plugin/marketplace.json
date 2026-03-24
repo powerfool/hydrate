@@ -1,0 +1,13 @@
+{
+  "name": "hydrate",
+  "owner": {
+    "name": "Dimitris Tzortzis"
+  },
+  "plugins": [
+    {
+      "name": "hydrate",
+      "source": "./",
+      "description": "Reminds you to take care of yourself while using Claude Code."
+    }
+  ]
+}
