@@ -1,8 +1,9 @@
 # Hydrate
 
-A Claude Code plugin that reminds you to drink water and stand up every 45 minutes.
+> The biggest risk of using Claude Code is not cognitive offloading. It's dehydration.
 
-Every 45 minutes, Claude will open its next response with a reminder — alternating between a drink water prompt and a stand up & stretch prompt.
+**Hydrate** is a Claude Code plugin that reminds you to drink water and stand up every 45 minutes so you don't rot in your chair.
+
 
 ## Installation
 
