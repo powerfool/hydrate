@@ -1,5 +1,8 @@
 {
-  "name": "hydrate",
+  "name": "dimitris-plugins",
+  "metadata": {
+    "description": "Dimitris' Plugin Marketplace"
+  },
   "owner": {
     "name": "Dimitris Tzortzis"
   },
@@ -7,7 +10,7 @@
     {
       "name": "hydrate",
       "source": "./",
-      "description": "Reminds you to take care of yourself while using Claude Code."
+      "description": "Hydrate — take care of yourself while using Claude Code."
     }
   ]
 }
