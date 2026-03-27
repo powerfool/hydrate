@@ -22,11 +22,11 @@ if [ "$elapsed" -ge "$INTERVAL" ]; then
 Before answering, open your response with the following inside a fenced code block (```), followed by a single friendly line:
 
 
-__   _ __   __ ____  ____      _  _____ _____
-| | | |\ \ / /|  _ \|  _ \    / \|_   _| ____|
-| |_| | \ V / | | | | |_) |  / _ \ | | |  _|
-|  _  |  | |  | |_| |  _ <  / ___ \| | | |___
-|_| |_|  |_|  |____/|_| \_\/_/   \_\_| |_____|
+. _   _ __   __ ____  ____      _  _____ _____
+ | | | |\ \ / /|  _ \|  _ \    / \|_   _| ____|
+ | |_| | \ V / | | | | |_) |  / _ \ | | |  _|
+ |  _  |  | |  | |_| |  _ <  / ___ \| | | |___
+ |_| |_|  |_|  |____/|_| \_\/_/   \_\_| |_____|
 
                   ~ ~ ~  sip sip sip  ~ ~ ~
 
@@ -40,7 +40,7 @@ EOF
 Before answering, open your response with the following inside a fenced code block (```), followed by a single friendly line:
 
 
-_______ _____  _    _   _ ____     _   _ ____
+.  ____ _____  _    _   _ ____     _   _ ____
   / ___|_   _|/ \  | \ | |  _ \   | | | |  _ \
   \___ \ | | / _ \ |  \| | | | |  | | | | |_) |
    ___) || |/ ___ \| |\  | |_| |  | |_| |  __/
