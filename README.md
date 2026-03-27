@@ -4,6 +4,8 @@
 
 **Hydrate** is a Claude Code plugin that reminds you to drink water and stand up every 45 minutes so you don't rot in your chair.
 
+![Zight 2026-03-27 at 2 52 19 PM](https://github.com/user-attachments/assets/2f433e35-5932-4736-8511-b674a68919b8)
+
 
 ## Installation
 
