@@ -19,7 +19,7 @@ if [ "$elapsed" -ge "$INTERVAL" ]; then
   if [ "$count" -eq 0 ]; then
     cat <<'EOF'
 <hydrate-reminder>
-Before answering, open your response with the following inside a fenced code block (```), followed by a single friendly line:
+After answering the user's question, close your response with the following inside a fenced code block (```), followed by a single friendly line:
 
 
 . _   _ __   __ ____  ____      _  _____ _____
@@ -31,13 +31,12 @@ Before answering, open your response with the following inside a fenced code blo
                   ~ ~ ~  sip sip sip  ~ ~ ~
 
 
-Then answer the user's question as normal.
 </hydrate-reminder>
 EOF
   else
     cat <<'EOF'
 <hydrate-reminder>
-Before answering, open your response with the following inside a fenced code block (```), followed by a single friendly line:
+After answering the user's question, close your response with the following inside a fenced code block (```), followed by a single friendly line:
 
 
 .  ____ _____  _    _   _ ____     _   _ ____
@@ -51,7 +50,6 @@ Before answering, open your response with the following inside a fenced code blo
             / \
 
 
-Then answer the user's question as normal.
 </hydrate-reminder>
 EOF
   fi
